@@ -1,1 +1,1 @@
-# AmaznClone
+Ornament clone App
