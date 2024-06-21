@@ -1,0 +1,151 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar1{
+    display: flex;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(188, 222, 250);
+
+}
+.smallnav1{
+    height: 20px;
+    width: 20%;
+    background-color:;
+    margin-left: 1rem;
+    padding-top: 0.1rem;
+    
+}
+.smallnav2{
+    height: 20px;
+    width: 80%;
+    
+    margin-left: 1rem;
+    text-align: center;
+}
+.header{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    /* background-color: brown;  */
+}
+.header1{
+    height:50px;
+    width: 20%;
+   background-color:;
+   background-image: url(tarnika11.webp);
+   background-size: cover;
+}
+.header2{
+    height: 50px;
+    width: 50%;
+    /* background-color: blue; */
+    padding-left: 2rem;
+   display: flex;
+   justify-content: center;
+   justify-content: space-evenly;
+    text-align: center;
+    
+}
+.newar{
+    padding-top: 0.9rem;
+    color: grey;
+}
+.sale{
+    color: red;
+}
+.header3{
+    height: 50px;
+    width: 30%;
+    /* background-color:aqua; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.search{
+    display: flex;
+    padding-top: 0.9rem;
+    height: 19px ;
+    width: 55%;
+}
+.user{
+    padding-top: 0.9rem;
+}
+.search-input{
+    width:100%
+}
+.content{
+    height: 400px;
+    width: 100%;
+    background-image: url(tarnika\ photo.webp);
+    background-size: cover;
+}
+.footer{
+    background-color: #222f3d;
+        color: white;
+        height: 250px;
+        display: flex;
+        justify-content: space-evenly;
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+.content2{
+    display: flex;
+    justify-content: space-evenly;
+    /* padding: 20px 0px 15px;
+    margin-top: 15px; */
+
+}
+.box1{
+    height: 350px;
+    width: 23%;
+    border: 2px solid black;
+    background-image: url(neckles.webp);
+    background-size: cover;
+}
+.box2{
+    height: 350px;
+    width: 23%;
+    border: 2px solid black;
+    background-image: url(nakashi.webp);
+    background-size: cover;
+}
+.box3{
+    height: 350px;
+    width: 23%;
+    border: 2px solid black;
+    background-image: url(neck2.webp);
+    background-size: cover;
+}
+.box4{
+    height: 350px;
+    width: 23%;
+    border: 2px solid black;
+    background-image: url(bangles1.webp);
+    background-size: cover;
+}
+.trending{
+    text-align: center;
+}
+.ocasion{
+    text-align: center;
+}
+.box5{
+    background-image: url(pendants.webp);
+}
+.box6{
+    background-image: url(jewelsss.webp);
+}
+.box7{
+    background-image: url(earrings.webp);
+}
+.box8{
+    background-image: url(bridal.webp);
+}
